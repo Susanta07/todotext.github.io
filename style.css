@@ -15,8 +15,8 @@ body{
 }
 .container
 {
-    height: 80vh;
-    width: 70%;
+    max-width: 500px;
+    width: 100%;
     border-radius: 25px;
     background: linear-gradient(135deg,#fe00fe2e,rgba(6, 168, 249, 0.164));
     backdrop-filter: blur(10px);
